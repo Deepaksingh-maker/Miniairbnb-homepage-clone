@@ -1,1 +1,7 @@
 node_modules
+playwright
+playwright-report
+test-results
+coverage
+dist
+.vscode
