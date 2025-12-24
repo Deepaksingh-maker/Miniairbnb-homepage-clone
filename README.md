@@ -19,15 +19,18 @@ A fully responsive, feature-rich Airbnb clone built with modern web technologies
 ## 📸 Screenshots
 
 ### Home Page - Listings Grid
-![Home Page](https://www.genspark.ai/api/files/s/NYwBzQCj)
+<img width="1907" height="970" alt="Screenshot 2025-12-24 110421" src="https://github.com/user-attachments/assets/a39ece11-1378-4a91-9d65-3c075bcdab52" />
+
 *Browse through curated property listings with advanced filtering and search capabilities*
 
 ### Featured Listing
-![Featured Listing](https://www.genspark.ai/api/files/s/yWgqVdFO)
+<img width="1918" height="971" alt="Screenshot 2025-12-24 110442" src="https://github.com/user-attachments/assets/afa6c10a-f063-419b-9931-70386387fb94" />
+
 *Superhost properties with detailed ratings and instant booking*
 
 ### Property Details
-![Property Details](https://www.genspark.ai/api/files/s/wnTe2DIG)
+![Uploading Screenshot 2025-12-24 110517.png…]()
+
 *Comprehensive property information with high-quality imagery and reservation options*
 
 ---
